@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cf74103-d2a3-4b6c-9cb8-fbc0a2fcc174" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Operators" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectId" id="1adSktU1lZJIkEuBuzO7xkw1oAI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../005_More-On-Operators-And-Operator-Precedence" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ashlesh.Main" />
+      <module name="Operators" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cf74103-d2a3-4b6c-9cb8-fbc0a2fcc174" name="Default" comment="" />
+      <created>1434952843940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1434952843940</updated>
+      <workItem from="1434952845342" duration="1184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1184000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="609" y="226" key="FileChooserDialogImpl" timestamp="1587064166585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="609" y="226" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587064166585" />
+    <state width="723" height="648" key="GridCell.Tab.0.bottom" timestamp="1587064167973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="648" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587064167973" />
+    <state width="723" height="648" key="GridCell.Tab.0.center" timestamp="1587064167973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="648" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587064167973" />
+    <state width="723" height="648" key="GridCell.Tab.0.left" timestamp="1587064167972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="648" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587064167972" />
+    <state width="723" height="648" key="GridCell.Tab.0.right" timestamp="1587064167973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="648" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587064167973" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
