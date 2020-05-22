@@ -23,6 +23,12 @@
     * **TODO List Application**
     * **Contact Application**
 * **Section 14: Basic Input & Output including java.util**
+    * Exception & Input-Output
+    * Java NIO
+    * Absolute & RekativeRead
+    * FileSystem, Path, Directories
+    * Chained Put Method
+    * File Channel
 * **Section 15: Concurrency in Java**
 * **Section 16: Lambda Expressions** 
 * **Section 17: Regular Expressions** 
@@ -55,3 +61,5 @@
 - **Adventure Game**
 - **Visited Places Application**
 - **TODO List Application**
+- **Contact Application**
+- **MusicUI Application**
