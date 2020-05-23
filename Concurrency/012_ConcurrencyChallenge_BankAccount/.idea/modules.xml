@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/012_ConcurrencyChallenge_BankAccount.iml" filepath="$PROJECT_DIR$/012_ConcurrencyChallenge_BankAccount.iml" />
+    </modules>
+  </component>
+</project>
