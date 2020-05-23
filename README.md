@@ -30,6 +30,13 @@
     * Chained Put Method
     * File Channel
 * **Section 15: Concurrency in Java**
+    * Thread & Runnable
+    * Mulitple Thread
+    * Thread Pools
+    * Producer-Consumer Scenario
+    * DeadLock
+    * Starvation
+    * JavaFX Background Task
 * **Section 16: Lambda Expressions** 
 * **Section 17: Regular Expressions** 
 * **Section 18: Debugging and Unit Testing** 
@@ -63,3 +70,5 @@
 - **TODO List Application**
 - **Contact Application**
 - **MusicUI Application**
+- **Bank Account**
+- **Task-Employee Application**
