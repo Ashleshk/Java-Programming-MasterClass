@@ -37,8 +37,13 @@
     * DeadLock
     * Starvation
     * JavaFX Background Task
-* **Section 16: Lambda Expressions** 
-* **Section 17: Regular Expressions** 
+* **Section 16: Lambda Expressions**
+    * Lambda Expression
+    * Streams
+    * ButtonFX
+* **Section 17: Regular Expressions**
+    * Regular Expression
+    * Challenge
 * **Section 18: Debugging and Unit Testing** 
 * **Section 19: Databases**
     * TestDB
