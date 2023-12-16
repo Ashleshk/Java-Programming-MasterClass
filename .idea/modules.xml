@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CODE/000_What-Are-Variables/000_What-Are-Variables.iml" filepath="$PROJECT_DIR$/CODE/000_What-Are-Variables/000_What-Are-Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/000_helloworld/000_helloworld.iml" filepath="$PROJECT_DIR$/CODE/000_helloworld/000_helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input &amp; Output/001_Exception/001_Exception.iml" filepath="$PROJECT_DIR$/Input &amp; Output/001_Exception/001_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/001_Primitive-Data-Types-The-Byte,-Short,-Int-And-Long/001_Primitive-Data-Types-The-Byte,-Short,-Int-And-Long.iml" filepath="$PROJECT_DIR$/CODE/001_Primitive-Data-Types-The-Byte,-Short,-Int-And-Long/001_Primitive-Data-Types-The-Byte,-Short,-Int-And-Long.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regular Expressions/001_Regular-Expressions/001_Regular-Expressions.iml" filepath="$PROJECT_DIR$/Regular Expressions/001_Regular-Expressions/001_Regular-Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input &amp; Output/002_InputOutput/002_InputOutput.iml" filepath="$PROJECT_DIR$/Input &amp; Output/002_InputOutput/002_InputOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/002_Primitive-Data-Types-Float-And-Double/002_Primitive-Data-Types-Float-And-Double.iml" filepath="$PROJECT_DIR$/CODE/002_Primitive-Data-Types-Float-And-Double/002_Primitive-Data-Types-Float-And-Double.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regular Expressions/002_RegularExpression-Challenge/002_RegularExpression-Challenge.iml" filepath="$PROJECT_DIR$/Regular Expressions/002_RegularExpression-Challenge/002_RegularExpression-Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input &amp; Output/003_JavaNIO/003_JavaNIO.iml" filepath="$PROJECT_DIR$/Input &amp; Output/003_JavaNIO/003_JavaNIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/003_Primitive-Data-Types-Char-And-Boolean/003_Primitive-Data-Types-Char-And-Boolean.iml" filepath="$PROJECT_DIR$/CODE/003_Primitive-Data-Types-Char-And-Boolean/003_Primitive-Data-Types-Char-And-Boolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Networking/004_High-level-APIs/004_High-level-APIs.iml" filepath="$PROJECT_DIR$/Networking/004_High-level-APIs/004_High-level-APIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input &amp; Output/004_JavaNIO/004_JavaNIO.iml" filepath="$PROJECT_DIR$/Input &amp; Output/004_JavaNIO/004_JavaNIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/004_Operators-In-Java/004_Operators-In-Java.iml" filepath="$PROJECT_DIR$/CODE/004_Operators-In-Java/004_Operators-In-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input &amp; Output/005_Absolute&amp;RelativeRead/005_Absolute&amp;RelativeRead.iml" filepath="$PROJECT_DIR$/Input &amp; Output/005_Absolute&amp;RelativeRead/005_Absolute&amp;RelativeRead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/005_More-On-Operators-And-Operator-Precedence/005_More-On-Operators-And-Operator-Precedence.iml" filepath="$PROJECT_DIR$/CODE/005_More-On-Operators-And-Operator-Precedence/005_More-On-Operators-And-Operator-Precedence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Networking/005_URI-Connections/005_URI-Connections.iml" filepath="$PROJECT_DIR$/Networking/005_URI-Connections/005_URI-Connections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input &amp; Output/006_ChainedPut_Method/006_ChainedPut_Method.iml" filepath="$PROJECT_DIR$/Input &amp; Output/006_ChainedPut_Method/006_ChainedPut_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/006_Strings-And-Finishing-Up-Primitive-Data-Types/006_Strings-And-Finishing-Up-Primitive-Data-Types.iml" filepath="$PROJECT_DIR$/CODE/006_Strings-And-Finishing-Up-Primitive-Data-Types/006_Strings-And-Finishing-Up-Primitive-Data-Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input &amp; Output/007_FileChannel_to_copy_Files_to_another/007_FileChannel_to_copy_Files_to_another.iml" filepath="$PROJECT_DIR$/Input &amp; Output/007_FileChannel_to_copy_Files_to_another/007_FileChannel_to_copy_Files_to_another.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/007_Keywords-And-Expressions/007_Keywords-And-Expressions.iml" filepath="$PROJECT_DIR$/CODE/007_Keywords-And-Expressions/007_Keywords-And-Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input &amp; Output/008_FileSystem/008_FileSystem.iml" filepath="$PROJECT_DIR$/Input &amp; Output/008_FileSystem/008_FileSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/008_Statements,-Whitespace-and-Intentation-(Code-Organization)/008_Statements,-Whitespace-and-Intentation-(Code-Organization).iml" filepath="$PROJECT_DIR$/CODE/008_Statements,-Whitespace-and-Intentation-(Code-Organization)/008_Statements,-Whitespace-and-Intentation-(Code-Organization).iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/009_Code-Blocks-And-The-If-Then-Else/009_Code-Blocks-And-The-If-Then-Else.iml" filepath="$PROJECT_DIR$/CODE/009_Code-Blocks-And-The-If-Then-Else/009_Code-Blocks-And-The-If-Then-Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input &amp; Output/009_Path/009_Path.iml" filepath="$PROJECT_DIR$/Input &amp; Output/009_Path/009_Path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input &amp; Output/010_Directories/010_Directories.iml" filepath="$PROJECT_DIR$/Input &amp; Output/010_Directories/010_Directories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/010_Methods-In-Java/010_Methods-In-Java.iml" filepath="$PROJECT_DIR$/CODE/010_Methods-In-Java/010_Methods-In-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/011_On-Methods-And-A-Challenge/011_On-Methods-And-A-Challenge.iml" filepath="$PROJECT_DIR$/CODE/011_On-Methods-And-A-Challenge/011_On-Methods-And-A-Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/012_Method-Overloading/012_Method-Overloading.iml" filepath="$PROJECT_DIR$/CODE/012_Method-Overloading/012_Method-Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/013_Speed-Converter/013_Speed-Converter.iml" filepath="$PROJECT_DIR$/CODE/013_Speed-Converter/013_Speed-Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/014_MegaBytesConverter/014_MegaBytesConverter.iml" filepath="$PROJECT_DIR$/CODE/014_MegaBytesConverter/014_MegaBytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/015_barking-dog/015_barking-dog.iml" filepath="$PROJECT_DIR$/CODE/015_barking-dog/015_barking-dog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/016_Leap-Year/016_Leap-Year.iml" filepath="$PROJECT_DIR$/CODE/016_Leap-Year/016_Leap-Year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/017_DecimalComaprator/017_DecimalComaprator.iml" filepath="$PROJECT_DIR$/CODE/017_DecimalComaprator/017_DecimalComaprator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/018_EqualSumChecker/018_EqualSumChecker.iml" filepath="$PROJECT_DIR$/CODE/018_EqualSumChecker/018_EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/019_Teen-numberChecker/019_Teen-numberChecker.iml" filepath="$PROJECT_DIR$/CODE/019_Teen-numberChecker/019_Teen-numberChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/020_method-overloading/020_method-overloading.iml" filepath="$PROJECT_DIR$/CODE/020_method-overloading/020_method-overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/021_seconds-minutes-challenge/021_seconds-minutes-challenge.iml" filepath="$PROJECT_DIR$/CODE/021_seconds-minutes-challenge/021_seconds-minutes-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/022_Area-Calculator/022_Area-Calculator.iml" filepath="$PROJECT_DIR$/CODE/022_Area-Calculator/022_Area-Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/023_Minute-to-years-days/023_Minute-to-years-days.iml" filepath="$PROJECT_DIR$/CODE/023_Minute-to-years-days/023_Minute-to-years-days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/024_Inequity-calculator/024_Inequity-calculator.iml" filepath="$PROJECT_DIR$/CODE/024_Inequity-calculator/024_Inequity-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/025_PlayingCat/025_PlayingCat.iml" filepath="$PROJECT_DIR$/CODE/025_PlayingCat/025_PlayingCat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/026_The-switch-statement-(plus-Challenge-Exercise)/026_The-switch-statement-(plus-Challenge-Exercise).iml" filepath="$PROJECT_DIR$/CODE/026_The-switch-statement-(plus-Challenge-Exercise)/026_The-switch-statement-(plus-Challenge-Exercise).iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/027_Coding-Excersise/027_Coding-Excersise.iml" filepath="$PROJECT_DIR$/CODE/027_Coding-Excersise/027_Coding-Excersise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/028_The-for-Statement-(plus-Challenge-Exercise)/028_The-for-Statement-(plus-Challenge-Exercise).iml" filepath="$PROJECT_DIR$/CODE/028_The-for-Statement-(plus-Challenge-Exercise)/028_The-for-Statement-(plus-Challenge-Exercise).iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/029_sum-3-and-5-challenge/029_sum-3-and-5-challenge.iml" filepath="$PROJECT_DIR$/CODE/029_sum-3-and-5-challenge/029_sum-3-and-5-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/030_The-while-and-do-while-statements-(+Challenge-Exercise)/030_The-while-and-do-while-statements-(+Challenge-Exercise).iml" filepath="$PROJECT_DIR$/CODE/030_The-while-and-do-while-statements-(+Challenge-Exercise)/030_The-while-and-do-while-statements-(+Challenge-Exercise).iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/031_DigitSum-Challenge/031_DigitSum-Challenge.iml" filepath="$PROJECT_DIR$/CODE/031_DigitSum-Challenge/031_DigitSum-Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/032_Coding-Exercises/032_Coding-Exercises.iml" filepath="$PROJECT_DIR$/CODE/032_Coding-Exercises/032_Coding-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/033_Parsing-value-froms-tring/033_Parsing-value-froms-tring.iml" filepath="$PROJECT_DIR$/CODE/033_Parsing-value-froms-tring/033_Parsing-value-froms-tring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/034_Coding-Exercises/034_Coding-Exercises.iml" filepath="$PROJECT_DIR$/CODE/034_Coding-Exercises/034_Coding-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/035_Reading-user-input/035_Reading-user-input.iml" filepath="$PROJECT_DIR$/CODE/035_Reading-user-input/035_Reading-user-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/036_Coding-Exercises/036_Coding-Exercises.iml" filepath="$PROJECT_DIR$/CODE/036_Coding-Exercises/036_Coding-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/037_Classes/037_Classes.iml" filepath="$PROJECT_DIR$/CODE/037_Classes/037_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/038_Constructors-(plus-Challenge-Exercise)/038_Constructors-(plus-Challenge-Exercise).iml" filepath="$PROJECT_DIR$/CODE/038_Constructors-(plus-Challenge-Exercise)/038_Constructors-(plus-Challenge-Exercise).iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/039_Inheritance/039_Inheritance.iml" filepath="$PROJECT_DIR$/CODE/039_Inheritance/039_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/040_Inheritance-Challenge/040_Inheritance-Challenge.iml" filepath="$PROJECT_DIR$/CODE/040_Inheritance-Challenge/040_Inheritance-Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/041_Coding-Exercises/041_Coding-Exercises.iml" filepath="$PROJECT_DIR$/CODE/041_Coding-Exercises/041_Coding-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/042_Composition/042_Composition.iml" filepath="$PROJECT_DIR$/CODE/042_Composition/042_Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/043_Encapssulation/043_Encapssulation.iml" filepath="$PROJECT_DIR$/CODE/043_Encapssulation/043_Encapssulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/044_polymorphism/044_polymorphism.iml" filepath="$PROJECT_DIR$/CODE/044_polymorphism/044_polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/045_BillBurger/045_BillBurger.iml" filepath="$PROJECT_DIR$/CODE/045_BillBurger/045_BillBurger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/046_Arrays/046_Arrays.iml" filepath="$PROJECT_DIR$/CODE/046_Arrays/046_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/047_reference-Vs-Values-type/047_reference-Vs-Values-type.iml" filepath="$PROJECT_DIR$/CODE/047_reference-Vs-Values-type/047_reference-Vs-Values-type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/048_Minimum-element-Challenge/048_Minimum-element-Challenge.iml" filepath="$PROJECT_DIR$/CODE/048_Minimum-element-Challenge/048_Minimum-element-Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/049_Reverse-Array-challenge/049_Reverse-Array-challenge.iml" filepath="$PROJECT_DIR$/CODE/049_Reverse-Array-challenge/049_Reverse-Array-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/050_list-and_ArrayList/050_list-and_ArrayList.iml" filepath="$PROJECT_DIR$/CODE/050_list-and_ArrayList/050_list-and_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/051_ArrayList-Challenge-MobileApp/051_ArrayList-Challenge-MobileApp.iml" filepath="$PROJECT_DIR$/CODE/051_ArrayList-Challenge-MobileApp/051_ArrayList-Challenge-MobileApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/052_AutoBoxing-Boxing/052_AutoBoxing-Boxing.iml" filepath="$PROJECT_DIR$/CODE/052_AutoBoxing-Boxing/052_AutoBoxing-Boxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/053_AutoBoxing-unBoxing-Challenge-BankApp/053_AutoBoxing-unBoxing-Challenge-BankApp.iml" filepath="$PROJECT_DIR$/CODE/053_AutoBoxing-unBoxing-Challenge-BankApp/053_AutoBoxing-unBoxing-Challenge-BankApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/054_LinkedList/054_LinkedList.iml" filepath="$PROJECT_DIR$/CODE/054_LinkedList/054_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/055_LinkedList-challenge-Playlist/055_LinkedList-challenge-Playlist.iml" filepath="$PROJECT_DIR$/CODE/055_LinkedList-challenge-Playlist/055_LinkedList-challenge-Playlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/056_Interfaces/056_Interfaces.iml" filepath="$PROJECT_DIR$/CODE/056_Interfaces/056_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/057_Interface-Challenge/057_Interface-Challenge.iml" filepath="$PROJECT_DIR$/CODE/057_Interface-Challenge/057_Interface-Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/058_VisitedPlaces-ArrayList/058_VisitedPlaces-ArrayList.iml" filepath="$PROJECT_DIR$/CODE/058_VisitedPlaces-ArrayList/058_VisitedPlaces-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/059_InnerClass/059_InnerClass.iml" filepath="$PROJECT_DIR$/CODE/059_InnerClass/059_InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/060_TODO-List-ArrayList/060_TODO-List-ArrayList.iml" filepath="$PROJECT_DIR$/CODE/060_TODO-List-ArrayList/060_TODO-List-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/061_InnerClass-Challenge-Playlist/061_InnerClass-Challenge-Playlist.iml" filepath="$PROJECT_DIR$/CODE/061_InnerClass-Challenge-Playlist/061_InnerClass-Challenge-Playlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/062_AbstractClasses/062_AbstractClasses.iml" filepath="$PROJECT_DIR$/CODE/062_AbstractClasses/062_AbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/063_Abstract-Challenges-LinkedList/063_Abstract-Challenges-LinkedList.iml" filepath="$PROJECT_DIR$/CODE/063_Abstract-Challenges-LinkedList/063_Abstract-Challenges-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/064_Generics/064_Generics.iml" filepath="$PROJECT_DIR$/CODE/064_Generics/064_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/066_Scope/066_Scope.iml" filepath="$PROJECT_DIR$/CODE/066_Scope/066_Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/067_Access-Modifier/067_Access-Modifier.iml" filepath="$PROJECT_DIR$/CODE/067_Access-Modifier/067_Access-Modifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/068_StaticMethod/068_StaticMethod.iml" filepath="$PROJECT_DIR$/CODE/068_StaticMethod/068_StaticMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/069_Final-&amp;-StaticInitialzers/069_Final-&amp;-StaticInitialzers.iml" filepath="$PROJECT_DIR$/CODE/069_Final-&amp;-StaticInitialzers/069_Final-&amp;-StaticInitialzers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/070_Collections/070_Collections.iml" filepath="$PROJECT_DIR$/CODE/070_Collections/070_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/071_BinarySearch/071_BinarySearch.iml" filepath="$PROJECT_DIR$/CODE/071_BinarySearch/071_BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/072_Maps/072_Maps.iml" filepath="$PROJECT_DIR$/CODE/072_Maps/072_Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/073_Adventure-Game/073_Adventure-Game.iml" filepath="$PROJECT_DIR$/CODE/073_Adventure-Game/073_Adventure-Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/074_Immutable-classes/074_Immutable-classes.iml" filepath="$PROJECT_DIR$/CODE/074_Immutable-classes/074_Immutable-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/075_Sets-&amp;-Hashsets/075_Sets-&amp;-Hashsets.iml" filepath="$PROJECT_DIR$/CODE/075_Sets-&amp;-Hashsets/075_Sets-&amp;-Hashsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/076_Sorted-Collections/076_Sorted-Collections.iml" filepath="$PROJECT_DIR$/CODE/076_Sorted-Collections/076_Sorted-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/077_Sets-&amp;-Hashset-Challenge-StockMarketApp/077_Sets-&amp;-Hashset-Challenge-StockMarketApp.iml" filepath="$PROJECT_DIR$/CODE/077_Sets-&amp;-Hashset-Challenge-StockMarketApp/077_Sets-&amp;-Hashset-Challenge-StockMarketApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/BorderPaneLayout/BorderPaneLayout.iml" filepath="$PROJECT_DIR$/JavaFX/BorderPaneLayout/BorderPaneLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/CSSwithJavaFX/CSSwithJavaFX.iml" filepath="$PROJECT_DIR$/JavaFX/CSSwithJavaFX/CSSwithJavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/ComboBox-and-ChoiceBox/ComboBox-and-ChoiceBox.iml" filepath="$PROJECT_DIR$/JavaFX/ComboBox-and-ChoiceBox/ComboBox-and-ChoiceBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/Controls/Controls.iml" filepath="$PROJECT_DIR$/JavaFX/Controls/Controls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Networking/002_Mult threaded Server/Echo-Client/Echo-Client.iml" filepath="$PROJECT_DIR$/Networking/002_Mult threaded Server/Echo-Client/Echo-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Networking/001_Client-&amp;-Server/Echo-Client/Echo-Client1.iml" filepath="$PROJECT_DIR$/Networking/001_Client-&amp;-Server/Echo-Client/Echo-Client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Networking/002_Mult threaded Server/Echo-Server/Echo-Server.iml" filepath="$PROJECT_DIR$/Networking/002_Mult threaded Server/Echo-Server/Echo-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Networking/001_Client-&amp;-Server/Echo-Server/Echo-Server1.iml" filepath="$PROJECT_DIR$/Networking/001_Client-&amp;-Server/Echo-Server/Echo-Server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/EventsAndEventHandler/EventsAndEventHandler.iml" filepath="$PROJECT_DIR$/JavaFX/EventsAndEventHandler/EventsAndEventHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/Hbox/Hbox.iml" filepath="$PROJECT_DIR$/JavaFX/Hbox/Hbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Programming-MasterClass.iml" filepath="$PROJECT_DIR$/Java-Programming-MasterClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Programming-MasterClass1.iml" filepath="$PROJECT_DIR$/Java-Programming-MasterClass1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Programming-MasterClass2.iml" filepath="$PROJECT_DIR$/Java-Programming-MasterClass2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Programming-MasterClass3.iml" filepath="$PROJECT_DIR$/Java-Programming-MasterClass3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Databases/Music/Music.iml" filepath="$PROJECT_DIR$/Databases/Music/Music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/OtherLayouts/OtherLayouts.iml" filepath="$PROJECT_DIR$/JavaFX/OtherLayouts/OtherLayouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/065_Packages/PackageChallenge/PackageChallenge.iml" filepath="$PROJECT_DIR$/CODE/065_Packages/PackageChallenge/PackageChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/RadioButton-and-CheckBox/RadioButton-and-CheckBox.iml" filepath="$PROJECT_DIR$/JavaFX/RadioButton-and-CheckBox/RadioButton-and-CheckBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/SampleTodoList/SampleTodoList.iml" filepath="$PROJECT_DIR$/JavaFX/SampleTodoList/SampleTodoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/ScenebuilderUI/ScenebuilderUI.iml" filepath="$PROJECT_DIR$/JavaFX/ScenebuilderUI/ScenebuilderUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/065_Packages/SeriesTest/SeriesTest.iml" filepath="$PROJECT_DIR$/CODE/065_Packages/SeriesTest/SeriesTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/Slider,-Spinner,-ColorPicker-&amp;-DatePicker-Controls/Slider,-Spinner,-ColorPicker-&amp;-DatePicker-Controls.iml" filepath="$PROJECT_DIR$/JavaFX/Slider,-Spinner,-ColorPicker-&amp;-DatePicker-Controls/Slider,-Spinner,-ColorPicker-&amp;-DatePicker-Controls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Databases/TestDB/TestDB.iml" filepath="$PROJECT_DIR$/Databases/TestDB/TestDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/ThreadAndRunnable/ThreadAndRunnable.iml" filepath="$PROJECT_DIR$/JavaFX/ThreadAndRunnable/ThreadAndRunnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/TitledPane/TitledPane.iml" filepath="$PROJECT_DIR$/JavaFX/TitledPane/TitledPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/TodoListModified/TodoListModified.iml" filepath="$PROJECT_DIR$/JavaFX/TodoListModified/TodoListModified.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Networking/003_UDP Client &amp; Server/UDPClient/UDPClient.iml" filepath="$PROJECT_DIR$/Networking/003_UDP Client &amp; Server/UDPClient/UDPClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Networking/003_UDP Client &amp; Server/UDPServer/UDPServer.iml" filepath="$PROJECT_DIR$/Networking/003_UDP Client &amp; Server/UDPServer/UDPServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/UIThread/UIThread.iml" filepath="$PROJECT_DIR$/JavaFX/UIThread/UIThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Networking/httpcomponents-client-4.5.3/httpcomponents-client-4.5.3.iml" filepath="$PROJECT_DIR$/Networking/httpcomponents-client-4.5.3/httpcomponents-client-4.5.3.iml" />
+    </modules>
+  </component>
+</project>

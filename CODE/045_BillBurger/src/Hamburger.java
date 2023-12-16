@@ -1,4 +1,4 @@
-public class Hamburger {
+public class Hamburger implements BillBurguerItem {
 
     private String name;
     private String breadRollType;
@@ -42,7 +42,7 @@ public class Hamburger {
         this.addition4Price = price;
     }
 
-    public double itemisedHamburger() {
+    public double itemisedItem() {
         double subTotal = this.basePrice;
 
         System.out.println("Total price of "

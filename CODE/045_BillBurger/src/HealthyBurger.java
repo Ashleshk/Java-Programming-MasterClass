@@ -20,8 +20,8 @@ public class HealthyBurger extends Hamburger {
     }
 
     @Override
-    public double itemisedHamburger() {
-        double subTotal = super.itemisedHamburger();
+    public double itemisedItem() {
+        double subTotal = super.itemisedItem();
 
         if (this.addition5Name != null) {
             subTotal += this.addition5Price;
