@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Concurrency" isTestSource="false" packagePrefix="com.timbuchalka" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaFX/GridPane-Layout/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="027_Coding-Excersise" />
+    <orderEntry type="module" module-name="016_Leap-Year" />
+    <orderEntry type="module" module-name="012_Method-Overloading" />
+    <orderEntry type="module" module-name="Echo-Server1" />
+    <orderEntry type="module" module-name="009_Code-Blocks-And-The-If-Then-Else" />
+    <orderEntry type="module" module-name="029_sum-3-and-5-challenge" />
+    <orderEntry type="module" module-name="026_The-switch-statement-(plus-Challenge-Exercise)" />
+    <orderEntry type="module" module-name="017_DecimalComaprator" />
+    <orderEntry type="module" module-name="005_More-On-Operators-And-Operator-Precedence" />
+    <orderEntry type="module" module-name="022_Area-Calculator" />
+    <orderEntry type="module" module-name="023_Minute-to-years-days" />
+    <orderEntry type="module" module-name="Echo-Client" />
+    <orderEntry type="module" module-name="024_Inequity-calculator" />
+    <orderEntry type="module" module-name="015_barking-dog" />
+    <orderEntry type="module" module-name="019_Teen-numberChecker" />
+    <orderEntry type="module" module-name="038_Constructors-(plus-Challenge-Exercise)" />
+    <orderEntry type="module" module-name="025_PlayingCat" />
+    <orderEntry type="module" module-name="014_MegaBytesConverter" />
+    <orderEntry type="module" module-name="031_DigitSum-Challenge" />
+    <orderEntry type="module" module-name="002_Primitive-Data-Types-Float-And-Double" />
+    <orderEntry type="module" module-name="007_Keywords-And-Expressions" />
+    <orderEntry type="module" module-name="064_Generics" />
+    <orderEntry type="module" module-name="Echo-Client1" />
+    <orderEntry type="module" module-name="006_Strings-And-Finishing-Up-Primitive-Data-Types" />
+    <orderEntry type="module" module-name="021_seconds-minutes-challenge" />
+    <orderEntry type="module" module-name="Echo-Server" />
+    <orderEntry type="module" module-name="001_Primitive-Data-Types-The-Byte,-Short,-Int-And-Long" />
+    <orderEntry type="module" module-name="044_polymorphism" />
+    <orderEntry type="module" module-name="008_Statements,-Whitespace-and-Intentation-(Code-Organization)" />
+    <orderEntry type="module" module-name="039_Inheritance" />
+    <orderEntry type="module" module-name="004_Operators-In-Java" />
+    <orderEntry type="module" module-name="028_The-for-Statement-(plus-Challenge-Exercise)" />
+    <orderEntry type="module" module-name="018_EqualSumChecker" />
+    <orderEntry type="module" module-name="013_Speed-Converter" />
+    <orderEntry type="module" module-name="003_Primitive-Data-Types-Char-And-Boolean" />
+    <orderEntry type="module" module-name="032_Coding-Exercises" />
+    <orderEntry type="module" module-name="010_Methods-In-Java" />
+    <orderEntry type="module" module-name="Music" />
+    <orderEntry type="module" module-name="011_On-Methods-And-A-Challenge" />
+    <orderEntry type="module" module-name="037_Classes" />
+  </component>
+</module>
